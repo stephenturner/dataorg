@@ -2,7 +2,7 @@
 
 This is a tutorial on organizing data in spreadsheets.
 
-View the thing [here](http://kbroman.org/dataorg).
+View the thing [here](http://stephenturner.github.io/dataorg).
 
 I would be glad for suggestions or corrections.
 
