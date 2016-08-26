@@ -48,22 +48,5 @@ organize your next data set in a way that will make analyses easier.
 - [Use data validation to avoid data entry mistakes](pages/validation.html).
 - [Save the data in plain text files](pages/csv_files.html).
 - [Other things to avoid](pages/avoid.html).
+- [Other resources](pages/resources.html).
 
-- [Other resources](pages/resources.html)
-
----
-
-The source for this tutorial is
-[on github](http://github.com/kbroman/dataorg).  If you have
-suggestions or corrections, please
-[submit an issue](https://github.com/kbroman/dataorg/issues).
-
-
-Also see my [tutorials](http://kbroman.org/pages/tutorials)
-on
-[git/github](http://kbroman.org/github_tutorial),
-[knitr](http://kbroman.org/knitr_knutshell),
-[GNU make](http://kbroman.org/minimal_make),
-[R packages](http://kbroman.org/pkg_primer),
-[making a web site with GitHub Pages](http://kbroman.org/simple_site),
-and [reproducible research](http://kbroman.org/steps2rr).
